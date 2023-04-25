@@ -6,4 +6,4 @@ and then it detects the people in need and count the number of people and it dis
 ground station.
 This project uses the GROUND ML approach.
 Ground ML eliminate the need of Edge ML as it uses live telemetry video feed and high processing power of ground station.
-/home/anurag/Downloads/photo_6215283905058158024_y.jpg
+![photo_6215283905058158024_y(1)](https://user-images.githubusercontent.com/114636450/234274156-f96d4572-8cb3-4223-b2b2-db285e5da19a.jpg)
